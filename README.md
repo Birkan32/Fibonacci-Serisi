@@ -1,0 +1,2 @@
+# Fibonacci-Serisi
+Patika Ödevi
